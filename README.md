@@ -38,3 +38,4 @@
 
 📫 **Connect with me:**  
   https://linkedin.com/in/diallo-abdourahmane
+  https://gitlab.com/diallo-abdourahmane
